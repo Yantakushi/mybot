@@ -1435,31 +1435,6 @@ ${garis}
 ${bawah}
 
 ${atas}
-${bates} *NSFW MENU* 🔐
-${garis}
-${garis + kotak} ${prefix}ass
-${garis + kotak} ${prefix}ahegao
-${garis + kotak} ${prefix}bdsm
-${garis + kotak} ${prefix}blowjob
-${garis + kotak} ${prefix}cuckold
-${garis + kotak} ${prefix}cum
-${garis + kotak} ${prefix}ero
-${garis + kotak} ${prefix}femdom
-${garis + kotak} ${prefix}foot
-${garis + kotak} ${prefix}gangbang
-${garis + kotak} ${prefix}galsses
-${garis + kotak} ${prefix}hentai
-${garis + kotak} ${prefix}jahy
-${garis + kotak} ${prefix}masturbation
-${garis + kotak} ${prefix}neko
-${garis + kotak} ${prefix}orgy
-${garis + kotak} ${prefix}panties
-${garis + kotak} ${prefix}pussy
-${garis + kotak} ${prefix}thighs
-${garis + kotak} ${prefix}yuri
-${bawah}
-
-${atas}
 ${bates} *ASUPAN MENU* 🗿
 ${garis}
 ${garis + kotak} ${prefix}vietnam
@@ -4133,20 +4108,6 @@ dha.sendMessage(from, girlneko, image, {caption: `*Nih kak dah jadi*`, quoted: m
 limitAdd(sender, _limit) 
 break
 
-//═════════════════════════ [ 18+ MENU ] ═════════════════════════
-//═════════════════════════ [ COPAS AJA ] ════════════════════════
-//═════════════════════════ [ API GW ] ═════════════════════════
-
-case 'ass': case 'ahegao': case 'bdsm': case 'blowjob': case 'cuckold': case 'cum': case 'ero': case 'femdom': case 'foot': case 'gangbang': case 'glasses': case 'hentai': case 'jahy': case 'masturbation': case 'neko': case 'orgy': case 'panties': case 'pussy': case 'thighs': case 'yuri': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isPremium && !isOwner && !mek.key.fromMe) return reply('Fitur Ini Khusus User Premium Ingin Beli Premium?Hubungi Owner Yang Bersangkutan')
-reply(mess.wait)
-bikep = await fetchJson(`https://rest2yeriko.herokuapp.com/api/nsfw/${command}?apikey=Yuzzu`)
-bokep = await getBuffer(bikep.result)
-sendButImage(from, `JANGAN KE WC DULU BRO\nDOSA TANGGUNG USER SENDIRI`, `MAU LAGI?KLIK BUTTON DI BAWAH⬇️⬇️`, bokep, [{buttonId: `${prefix}${command}`,buttonText: {displayText: `AGAIN➡️`,},type: 1,},]);
-limitAdd(sender, _limit)
-break
 
 //═════════════════════════ [ ASUPAN MENU ] ═════════════════════════
 //═════════════════════════ [ COPAS AJA ] ════════════════════════
