@@ -5425,9 +5425,9 @@ break
 case 'family100':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-game4 = await fetchJson(`https://fatiharridho.my.id/database/games/family100.json?apikey=${apizeks}`)
+game4 = await fetchJson(`https://api.dhamzxploit.my.id/api/kuis/family100?apikey${apidzx}`)
 setTimeout ( () => {
-reply(`${kotak}soal : *${game4.data.soal}*`)
+reply(`${kotak}pertanyaan : *${game4.data.pertanyaan}*`)
 }, 0)
 setTimeout ( () => {
 reply(`_WAKTU HABIS_\nJawaban : ${game4.data.jawaban.string}`)
