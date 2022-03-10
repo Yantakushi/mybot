@@ -5425,7 +5425,7 @@ break
 case 'family100':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-game4 = await fetchJson(`https://api.zeks.me/api/family100?apikey=${apizeks}`)
+game4 = await fetchJson(`https://fatiharridho.my.id/database/games/family100.json?apikey=${apizeks}`)
 setTimeout ( () => {
 reply(`${kotak}Pertanyaan : *${game4.data.pertanyaan}*`)
 }, 0)
