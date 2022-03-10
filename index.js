@@ -1140,25 +1140,7 @@ ${garis} *🕑Wit* : ${wit}
 ${garis} *🕒Wita* : ${wita}
 ${garis}
 ${bawah}  
-${atas}
-${bates} 🌹 _Big Thanks To_
-${garis}
-${garis} *Tuhan Ku* 
-${garis} *Orang Tua Ku*  
-${garis} *Bailyes*
-${garis} *Heroku* [ WEB RUN BOT ]
-${garis} *Yudha* [ BASE NYA ]
-${garis} *DhaniGans* [ REST API ]
-${garis} *Febzabotz* [ RPG ]
-${garis} *Nayla* [ TQ CASE NYA ]
-${garis} *Zeeone Ofc* [ TQ CASE NYA ] 
-${garis} *Dapuhy* [ REST API ]
-${garis} *Rey* [ REST API ]
-${garis} *Zeks* [ REST API ]
-${garis} *Yeriko* [ PEMBUAT BOT ]
-${garis} *${NamaOwner}* [ PENGEMBANG BOT ]
-${bawah}   
-`
+
 sendButLocation(from, allmenuuu, `${atas}
 ${bates} *ADMIN MENU* 🤴
 ${garis}
@@ -1288,153 +1270,6 @@ ${garis}
 ${bawah}
 
 ${atas}
-${bates} *MAKER MENU* 🖼️
-${garis}
-${garis + kotak} ${prefix}blackpink _Teks_
-${garis + kotak} ${prefix}halloween _Teks_
-${garis + kotak} ${prefix}halloween2 _Teks_
-${garis + kotak} ${prefix}3dgradient _Teks_
-${garis + kotak} ${prefix}naturalleaves _Teks_
-${garis + kotak} ${prefix}dropwater _Teks_
-${garis + kotak} ${prefix}blood _Teks_
-${garis + kotak} ${prefix}blood2 _Teks_
-${garis + kotak} ${prefix}snow _Teks_
-${garis + kotak} ${prefix}cloud _Teks_
-${garis + kotak} ${prefix}neondevil _Teks_
-${garis + kotak} ${prefix}neon _Teks_
-${garis + kotak} ${prefix}glowingneonlight _Teks_
-${garis + kotak} ${prefix}neonlightglitch _Teks_
-${garis + kotak} ${prefix}neonlightonbrickwall _Teks_
-${garis + kotak} ${prefix}neonlight _Teks_
-${garis + kotak} ${prefix}neonlight2 _Teks_
-${garis + kotak} ${prefix}neonlight3 _Teks_
-${garis + kotak} ${prefix}greenneon _Teks_
-${garis + kotak} ${prefix}toxic _Teks_
-${garis + kotak} ${prefix}matrix _Teks_
-${garis + kotak} ${prefix}thunder _Teks_
-${garis + kotak} ${prefix}thunder2 _Teks_
-${garis + kotak} ${prefix}bokeh _Teks_
-${garis + kotak} ${prefix}carbontext _Teks_
-${garis + kotak} ${prefix}christmas _Teks_
-${garis + kotak} ${prefix}breakwall _Teks_
-${garis + kotak} ${prefix}roadwarning _Teks_
-${garis + kotak} ${prefix}engraved3d _Teks_
-${garis + kotak} ${prefix}embossed _Teks_
-${garis + kotak} ${prefix}3dstone _Teks_
-${garis + kotak} ${prefix}futuristic _Teks_
-${garis + kotak} ${prefix}sketch _Teks_
-${garis + kotak} ${prefix}bluecircuit _Teks_
-${garis + kotak} ${prefix}space _Teks_
-${garis + kotak} ${prefix}magmahot _Teks_
-${garis + kotak} ${prefix}artpapercut _Teks_
-${garis + kotak} ${prefix}3dluxurygold _Teks_
-${garis + kotak} ${prefix}robotr2d2 _Teks_
-${garis + kotak} ${prefix}harrypotter _Teks_
-${garis + kotak} ${prefix}glitch3 _Teks_
-${garis + kotak} ${prefix}greenhorror _Teks_
-${garis + kotak} ${prefix}horrorgift _Teks_
-${garis + kotak} ${prefix}erodedmetal _Teks_
-${garis + kotak} ${prefix}3dglowingmetal _Teks_
-${garis + kotak} ${prefix}blackmetal _Teks_
-${garis + kotak} ${prefix}bluemetal _Teks_
-${garis + kotak} ${prefix}shynimetal _Teks_
-${garis + kotak} ${prefix}rustymetal _Teks_
-${garis + kotak} ${prefix}metalpurple _Teks_
-${garis + kotak} ${prefix}metalrainbow _Teks_
-${garis + kotak} ${prefix}metaldarkgold _Teks_
-${garis + kotak} ${prefix}colorfullluxurymetal _Teks_
-${garis + kotak} ${prefix}glossybluemetal _Teks_
-${garis + kotak} ${prefix}3dglossymetal _Teks_
-${garis + kotak} ${prefix}3ddeepseametal _Teks_
-${garis + kotak} ${prefix}leddisplayscreen _Teks_
-${garis + kotak} ${prefix}metallic _Teks_
-${garis + kotak} ${prefix}glossymetallic _Teks_
-${garis + kotak} ${prefix}christmastree _Teks_
-${garis + kotak} ${prefix}sparklesmerrychristmas _Teks_
-${garis + kotak} ${prefix}countryflag3d _Teks_
-${garis + kotak} ${prefix}americanflag3d _Teks_
-${garis + kotak} ${prefix}3dscfi _Teks_
-${garis + kotak} ${prefix}3drainbow _Teks_
-${garis + kotak} ${prefix}3dwaterpipe _Teks_
-${garis + kotak} ${prefix}3dchrome _Teks_
-${garis + kotak} ${prefix}bluegem _Teks_
-${garis + kotak} ${prefix}purplegem _Teks_
-${garis + kotak} ${prefix}pinkcandy _Teks_
-${garis + kotak} ${prefix}transformer _Teks_
-${garis + kotak} ${prefix}berry _Teks_
-${garis + kotak} ${prefix}brokenglass _Teks_
-${garis + kotak} ${prefix}3drealistic _Teks_
-${garis + kotak} ${prefix}3dunderwater _Teks_
-${garis + kotak} ${prefix}writeinsandsummerbeach _Teks_
-${garis + kotak} ${prefix}sandwriting _Teks_
-${garis + kotak} ${prefix}foilballoon _Teks_
-${garis + kotak} ${prefix}3dglue _Teks_
-${garis + kotak} ${prefix}1917 _Teks_
-${garis + kotak} ${prefix}minion _Teks_
-${garis + kotak} ${prefix}doubleexposure _Teks_
-${garis + kotak} ${prefix}holographic3d _Teks_
-${garis + kotak} ${prefix}deluxegold _Teks_
-${garis + kotak} ${prefix}deluxesilver _Teks_
-${garis + kotak} ${prefix}glossycarbon _Teks_
-${garis + kotak} ${prefix}fabric _Teks_
-${garis + kotak} ${prefix}xmascards3d _Teks_
-${garis + kotak} ${prefix}wicker _Teks_
-${garis + kotak} ${prefix}fireworksparkle _Teks_
-${garis + kotak} ${prefix}skeleton _Teks_
-${garis + kotak} ${prefix}ultragloss _Teks_
-${garis + kotak} ${prefix}denim _Teks_
-${garis + kotak} ${prefix}decorategreen _Teks_
-${garis + kotak} ${prefix}peridot _Teks_
-${garis + kotak} ${prefix}rock _Teks_
-${garis + kotak} ${prefix}lava _Teks_
-${garis + kotak} ${prefix}rainbowequalizer _Teks_
-${garis + kotak} ${prefix}purpleglass _Teks_
-${garis + kotak} ${prefix}decorativeglass _Teks_
-${garis + kotak} ${prefix}chocolatecake _Teks_
-${garis + kotak} ${prefix}strawberry _Teks_
-${garis + kotak} ${prefix}koifish _Teks_
-${garis + kotak} ${prefix}bread _Teks_
-${garis + kotak} ${prefix}3dbox _Teks_
-${garis + kotak} ${prefix}freeadvancedglow _Teks_
-${garis + kotak} ${prefix}honey _Teks_
-${garis + kotak} ${prefix}marble _Teks_
-${garis + kotak} ${prefix}marbleslabs _Teks_
-${garis + kotak} ${prefix}icecold _Teks_
-${garis + kotak} ${prefix}fruitjuice _Teks_
-${garis + kotak} ${prefix}abstragold _Teks_
-${garis + kotak} ${prefix}biscuit _Teks_
-${garis + kotak} ${prefix}bagel _Teks_
-${garis + kotak} ${prefix}wood _Teks_
-${garis + kotak} ${prefix}hexagolden _Teks_
-${garis + kotak} ${prefix}wonderfulgraffitiart _Teks_
-${garis + kotak} ${prefix}8bit _Teks1&Teks2_
-${garis + kotak} ${prefix}pornhub _Teks1&Teks2_
-${garis + kotak} ${prefix}glitch _Teks1&Teks2_
-${garis + kotak} ${prefix}glitch2 _Teks1&Teks2_
-${garis + kotak} ${prefix}layered _Teks1&Teks2_
-${garis + kotak} ${prefix}3dsteel _Teks1&Teks2_
-${garis + kotak} ${prefix}realistic _Teks1&Teks2_
-${garis + kotak} ${prefix}lionlogo _Teks1&Teks2_
-${garis + kotak} ${prefix}ninjalogo _Teks1&Teks2_
-${garis + kotak} ${prefix}wolf _Teks1&Teks2_
-${garis + kotak} ${prefix}wolf2 _Teks1&Teks2_
-${garis + kotak} ${prefix}halloween3 _Teks1&Teks2_
-${garis + kotak} ${prefix}marvel _Teks1&Teks2_
-${garis + kotak} ${prefix}marvel2 _Teks1&Teks2_
-${garis + kotak} ${prefix}cinematichorror _Teks1&Teks2_
-${garis + kotak} ${prefix}avengers _Teks1&Teks2_
-${garis + kotak} ${prefix}graffiti3 _Teks1&Teks2_
-${garis + kotak} ${prefix}captainamerica _Teks1&Teks2_
-${garis + kotak} ${prefix}girlneko _Teks1&Teks2_
-${garis + kotak} ${prefix}sadboy _Teks1&Teks2_
-${garis + kotak} ${prefix}makerkaneki _Teks1&Teks2_
-${garis + kotak} ${prefix}rem _Teks1&Teks2_
-${garis + kotak} ${prefix}lolimaker _Teks1&Teks2_
-${garis + kotak} ${prefix}gura _Teks1&Teks2_
-${garis}
-${bawah}
-
-${atas}
 ${bates} *ASUPAN MENU* 🗿
 ${garis}
 ${garis + kotak} ${prefix}vietnam
@@ -1454,52 +1289,6 @@ ${garis}
 ${bawah}
 
 ${atas}
-${bates} *RANDOM FOTO* 🖼️
-${garis}
-${bates} *WALLPAPER*
-${garis}
-${garis + kotak} ${prefix}cecan2
-${garis + kotak} ${prefix}cogan2
-${garis + kotak} ${prefix}katakata
-${garis + kotak} ${prefix}pentol
-${garis + kotak} ${prefix}kartun
-${garis + kotak} ${prefix}tatasurya
-${garis + kotak} ${prefix}cyberspace
-${garis + kotak} ${prefix}gaming
-${garis + kotak} ${prefix}programing
-${garis + kotak} ${prefix}teknologi
-${garis + kotak} ${prefix}mountain
-${garis + kotak} ${prefix}anime
-${garis + kotak} ${prefix}wallhp
-${garis + kotak} ${prefix}wallpaperhacker
-${garis + kotak} ${prefix}wallpaperhacker2
-${garis + kotak} ${prefix}wallpaperharley
-${garis + kotak} ${prefix}wallpaperjoker
-${garis + kotak} ${prefix}wallpaperpubg
-${garis + kotak} ${prefix}wallpaperhp
-${garis + kotak} ${prefix}wallpaperhp2
-${garis + kotak} ${prefix}wallpapergame
-${garis}
-${bates} *FOTO LAINNYA*
-${garis}
-${garis + kotak} ${prefix}darkjokes [ GELAP ]
-${garis + kotak} ${prefix}ryujin
-${garis + kotak} ${prefix}rose
-${garis + kotak} ${prefix}justina
-${garis + kotak} ${prefix}blackpink
-${garis + kotak} ${prefix}doraemon
-${garis + kotak} ${prefix}kpop
-${garis + kotak} ${prefix}hekel
-${garis + kotak} ${prefix}pubg
-${garis + kotak} ${prefix}cecan
-${garis + kotak} ${prefix}cogan
-${garis + kotak} ${prefix}aesthetic
-${garis + kotak} ${prefix}kucing
-${garis + kotak} ${prefix}anjing
-${garis}
-${bawah}
-
-${atas}
 ${bates} *RANDOM VIDEO* 🎥
 ${garis}
 ${garis + kotak} ${prefix}beatvn
@@ -1514,75 +1303,6 @@ ${garis + kotak} ${prefix}storybus
 ${garis}
 ${bawah}
 
-${atas}
-${garis}
-${bates} *ANIME MENU* 🌚
-${garis}
-${garis + kotak} ${prefix}akira
-${garis + kotak} ${prefix}akiyama
-${garis + kotak} ${prefix}waifu2
-${garis + kotak} ${prefix}onepiece
-${garis + kotak} ${prefix}rize
-${garis + kotak} ${prefix}elaina
-${garis + kotak} ${prefix}waifu
-${garis + kotak} ${prefix}hestia
-${garis + kotak} ${prefix}mikasa
-${garis + kotak} ${prefix}nezuko
-${garis + kotak} ${prefix}megumin
-${garis + kotak} ${prefix}nekonime
-${garis + kotak} ${prefix}sakura
-${garis + kotak} ${prefix}sagiri
-${garis + kotak} ${prefix}shinka
-${garis + kotak} ${prefix}isuzu
-${garis + kotak} ${prefix}kurumi
-${garis + kotak} ${prefix}emilia
-${garis + kotak} ${prefix}kaori
-${garis + kotak} ${prefix}asuna
-${garis + kotak} ${prefix}shizuka
-${garis + kotak} ${prefix}kaga
-${garis + kotak} ${prefix}akira
-${garis + kotak} ${prefix}chitoge
-${garis + kotak} ${prefix}yuki
-${garis + kotak} ${prefix}ayuzawa
-${garis + kotak} ${prefix}ezra
-${garis + kotak} ${prefix}hinata
-${garis + kotak} ${prefix}kagura
-${garis + kotak} ${prefix}miku
-${garis + kotak} ${prefix}toukachan
-${garis + kotak} ${prefix}kotori
-${garis + kotak} ${prefix}inori
-${garis + kotak} ${prefix}ana
-${garis + kotak} ${prefix}shina
-${garis + kotak} ${prefix}itori
-${garis}
-${bawah}
-
-${atas}
-${bates} *RANDOM TEXT* 🅰️
-${garis}
-${garis + kotak} ${prefix}pantun
-${garis + kotak} ${prefix}puisi
-${garis + kotak} ${prefix}faktaunik
-${garis + kotak} ${prefix}katabijak
-${garis + kotak} ${prefix}katailham
-${garis + kotak} ${prefix}katasindiran
-${garis + kotak} ${prefix}katabucin
-${garis + kotak} ${prefix}katabucin2
-${garis + kotak} ${prefix}kataml
-${garis + kotak} ${prefix}katagalau
-${garis + kotak} ${prefix}katagombal
-${garis + kotak} ${prefix}quotes
-${garis + kotak} ${prefix}quoteskanye
-${garis + kotak} ${prefix}quotesislami
-${garis + kotak} ${prefix}quotesanime
-${garis + kotak} ${prefix}quotesdilan
-${garis + kotak} ${prefix}quotesff
-${garis + kotak} ${prefix}quotespubg
-${garis + kotak} ${prefix}quoteshacker
-${garis + kotak} ${prefix}truth
-${garis + kotak} ${prefix}dare
-${garis}
-${bawah}
 
 ${atas}
 ${bates} *FUN MENU* 🎮
@@ -1649,51 +1369,7 @@ ${bawah}
 ║▌│█║▌│ █║▌│█│║▌║
 ║▌│█║▌│ █║▌│█│║▌║
 
-case 'credit': case 'credits': case 'tqto':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-replywa(`[ *BIG THANKS* ]
-${kotak} TUHAN YANG MAHA ESA
-${kotak} Orang Tua Ku
 
-[ *THANKS TO* ]
-${kotak} *Yudha* [ Base Bot ]
-- https://youtube.com/c/DHABOTZ
-
-${kotak} *DhaniGans* [ REST API ]
--https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA
-
-${kotak} *FebzaBotz* [ Rpg Menu ] 
-- https://youtube.com/c/FEBZABOTZ
-
-${kotak} *Nayla* [ Maker ]
-- https://youtube.com/channel/UCeQaKIQQhDNHMOq_odQh5Sw
-
-${kotak} *Zeeone Ofc* [ Auto Bio ]
-- https://youtube.com/c/ZEEONEOFC
-
-${kotak} *Dapuhy* [ Rest Api ] 
-- https://dapuhy.xyz
- 
-${kotak} *Rey* [ Rest Api ] 
-- https://server-api-rey.herokuapp.com
-
-${kotak} *Zeks* [ Rest Api ]
-- https://zeks.me
-
-
-${kotak} *Yeriko Nata*
-- https://youtube.com/channel/UCrDbOl8d46n9XI884qSAVrg
-
-${kotak} *${NamaOwner}*
-- ${ytown}
-
-[ *PESAN* ]
-Terimakasih Buat Nama Nama Yang Tersebut Di Atas🌚
-
-© ${NamaBot}`)
-limitAdd(sender, _limit) 
-break
 //═════════════════════════ [ RPG MENU ] ═════════════════════════
 //═════════════════════════ [ BY FEBRIANSYAH ] ════════════════════════
 //═════════════════════════ [ YT : FEBZBOT ] ═════════════════════════
