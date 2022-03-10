@@ -1369,7 +1369,13 @@ ${bawah}
 ║▌│█║▌│ █║▌│█│║▌║
 ║▌│█║▌│ █║▌│█│║▌║
 
-
+case 'credit': case 'credits': case 'tqto':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+		      
+© ${NamaBot}`)
+limitAdd(sender, _limit) 
+break
 //═════════════════════════ [ RPG MENU ] ═════════════════════════
 //═════════════════════════ [ BY FEBRIANSYAH ] ════════════════════════
 //═════════════════════════ [ YT : FEBZBOT ] ═════════════════════════
@@ -4438,7 +4444,7 @@ break
 case 'family100':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-game4 = await fetchJson(`https://api.zeks.me/api/family100?apikey${apivinz}`)
+game4 = await fetchJson(`https://api.zeks.me/api/family100?apikey=${apivinz}`)
 setTimeout ( () => {
 reply(`${kotak}Pertanyaan : *${game4.data.pertanyaan}*`)
 }, 0)
