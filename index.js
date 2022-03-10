@@ -138,7 +138,7 @@ adminl = tes.Adminl
 freel = tes.freel
 //apikey
 apidapa = api.ApiDapa
-apivinz = api.ApiZeks
+apizeks = api.ApiZeks
 //Vcard
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
@@ -1140,7 +1140,25 @@ ${garis} *🕑Wit* : ${wit}
 ${garis} *🕒Wita* : ${wita}
 ${garis}
 ${bawah}  
-
+${atas}
+${bates} 🌹 _Big Thanks To_
+${garis}
+${garis} *Tuhan Ku* 
+${garis} *Orang Tua Ku*  
+${garis} *Bailyes*
+${garis} *Heroku* [ WEB RUN BOT ]
+${garis} *Yudha* [ BASE NYA ]
+${garis} *DhaniGans* [ REST API ]
+${garis} *Febzabotz* [ RPG ]
+${garis} *Nayla* [ TQ CASE NYA ]
+${garis} *Zeeone Ofc* [ TQ CASE NYA ] 
+${garis} *Dapuhy* [ REST API ]
+${garis} *Rey* [ REST API ]
+${garis} *Zeks* [ REST API ]
+${garis} *Yeriko* [ PEMBUAT BOT ]
+${garis} *${NamaOwner}* [ PENGEMBANG BOT ]
+${bawah}   
+`
 sendButLocation(from, allmenuuu, `${atas}
 ${bates} *ADMIN MENU* 🤴
 ${garis}
@@ -1270,6 +1288,178 @@ ${garis}
 ${bawah}
 
 ${atas}
+${bates} *MAKER MENU* 🖼️
+${garis}
+${garis + kotak} ${prefix}blackpink _Teks_
+${garis + kotak} ${prefix}halloween _Teks_
+${garis + kotak} ${prefix}halloween2 _Teks_
+${garis + kotak} ${prefix}3dgradient _Teks_
+${garis + kotak} ${prefix}naturalleaves _Teks_
+${garis + kotak} ${prefix}dropwater _Teks_
+${garis + kotak} ${prefix}blood _Teks_
+${garis + kotak} ${prefix}blood2 _Teks_
+${garis + kotak} ${prefix}snow _Teks_
+${garis + kotak} ${prefix}cloud _Teks_
+${garis + kotak} ${prefix}neondevil _Teks_
+${garis + kotak} ${prefix}neon _Teks_
+${garis + kotak} ${prefix}glowingneonlight _Teks_
+${garis + kotak} ${prefix}neonlightglitch _Teks_
+${garis + kotak} ${prefix}neonlightonbrickwall _Teks_
+${garis + kotak} ${prefix}neonlight _Teks_
+${garis + kotak} ${prefix}neonlight2 _Teks_
+${garis + kotak} ${prefix}neonlight3 _Teks_
+${garis + kotak} ${prefix}greenneon _Teks_
+${garis + kotak} ${prefix}toxic _Teks_
+${garis + kotak} ${prefix}matrix _Teks_
+${garis + kotak} ${prefix}thunder _Teks_
+${garis + kotak} ${prefix}thunder2 _Teks_
+${garis + kotak} ${prefix}bokeh _Teks_
+${garis + kotak} ${prefix}carbontext _Teks_
+${garis + kotak} ${prefix}christmas _Teks_
+${garis + kotak} ${prefix}breakwall _Teks_
+${garis + kotak} ${prefix}roadwarning _Teks_
+${garis + kotak} ${prefix}engraved3d _Teks_
+${garis + kotak} ${prefix}embossed _Teks_
+${garis + kotak} ${prefix}3dstone _Teks_
+${garis + kotak} ${prefix}futuristic _Teks_
+${garis + kotak} ${prefix}sketch _Teks_
+${garis + kotak} ${prefix}bluecircuit _Teks_
+${garis + kotak} ${prefix}space _Teks_
+${garis + kotak} ${prefix}magmahot _Teks_
+${garis + kotak} ${prefix}artpapercut _Teks_
+${garis + kotak} ${prefix}3dluxurygold _Teks_
+${garis + kotak} ${prefix}robotr2d2 _Teks_
+${garis + kotak} ${prefix}harrypotter _Teks_
+${garis + kotak} ${prefix}glitch3 _Teks_
+${garis + kotak} ${prefix}greenhorror _Teks_
+${garis + kotak} ${prefix}horrorgift _Teks_
+${garis + kotak} ${prefix}erodedmetal _Teks_
+${garis + kotak} ${prefix}3dglowingmetal _Teks_
+${garis + kotak} ${prefix}blackmetal _Teks_
+${garis + kotak} ${prefix}bluemetal _Teks_
+${garis + kotak} ${prefix}shynimetal _Teks_
+${garis + kotak} ${prefix}rustymetal _Teks_
+${garis + kotak} ${prefix}metalpurple _Teks_
+${garis + kotak} ${prefix}metalrainbow _Teks_
+${garis + kotak} ${prefix}metaldarkgold _Teks_
+${garis + kotak} ${prefix}colorfullluxurymetal _Teks_
+${garis + kotak} ${prefix}glossybluemetal _Teks_
+${garis + kotak} ${prefix}3dglossymetal _Teks_
+${garis + kotak} ${prefix}3ddeepseametal _Teks_
+${garis + kotak} ${prefix}leddisplayscreen _Teks_
+${garis + kotak} ${prefix}metallic _Teks_
+${garis + kotak} ${prefix}glossymetallic _Teks_
+${garis + kotak} ${prefix}christmastree _Teks_
+${garis + kotak} ${prefix}sparklesmerrychristmas _Teks_
+${garis + kotak} ${prefix}countryflag3d _Teks_
+${garis + kotak} ${prefix}americanflag3d _Teks_
+${garis + kotak} ${prefix}3dscfi _Teks_
+${garis + kotak} ${prefix}3drainbow _Teks_
+${garis + kotak} ${prefix}3dwaterpipe _Teks_
+${garis + kotak} ${prefix}3dchrome _Teks_
+${garis + kotak} ${prefix}bluegem _Teks_
+${garis + kotak} ${prefix}purplegem _Teks_
+${garis + kotak} ${prefix}pinkcandy _Teks_
+${garis + kotak} ${prefix}transformer _Teks_
+${garis + kotak} ${prefix}berry _Teks_
+${garis + kotak} ${prefix}brokenglass _Teks_
+${garis + kotak} ${prefix}3drealistic _Teks_
+${garis + kotak} ${prefix}3dunderwater _Teks_
+${garis + kotak} ${prefix}writeinsandsummerbeach _Teks_
+${garis + kotak} ${prefix}sandwriting _Teks_
+${garis + kotak} ${prefix}foilballoon _Teks_
+${garis + kotak} ${prefix}3dglue _Teks_
+${garis + kotak} ${prefix}1917 _Teks_
+${garis + kotak} ${prefix}minion _Teks_
+${garis + kotak} ${prefix}doubleexposure _Teks_
+${garis + kotak} ${prefix}holographic3d _Teks_
+${garis + kotak} ${prefix}deluxegold _Teks_
+${garis + kotak} ${prefix}deluxesilver _Teks_
+${garis + kotak} ${prefix}glossycarbon _Teks_
+${garis + kotak} ${prefix}fabric _Teks_
+${garis + kotak} ${prefix}xmascards3d _Teks_
+${garis + kotak} ${prefix}wicker _Teks_
+${garis + kotak} ${prefix}fireworksparkle _Teks_
+${garis + kotak} ${prefix}skeleton _Teks_
+${garis + kotak} ${prefix}ultragloss _Teks_
+${garis + kotak} ${prefix}denim _Teks_
+${garis + kotak} ${prefix}decorategreen _Teks_
+${garis + kotak} ${prefix}peridot _Teks_
+${garis + kotak} ${prefix}rock _Teks_
+${garis + kotak} ${prefix}lava _Teks_
+${garis + kotak} ${prefix}rainbowequalizer _Teks_
+${garis + kotak} ${prefix}purpleglass _Teks_
+${garis + kotak} ${prefix}decorativeglass _Teks_
+${garis + kotak} ${prefix}chocolatecake _Teks_
+${garis + kotak} ${prefix}strawberry _Teks_
+${garis + kotak} ${prefix}koifish _Teks_
+${garis + kotak} ${prefix}bread _Teks_
+${garis + kotak} ${prefix}3dbox _Teks_
+${garis + kotak} ${prefix}freeadvancedglow _Teks_
+${garis + kotak} ${prefix}honey _Teks_
+${garis + kotak} ${prefix}marble _Teks_
+${garis + kotak} ${prefix}marbleslabs _Teks_
+${garis + kotak} ${prefix}icecold _Teks_
+${garis + kotak} ${prefix}fruitjuice _Teks_
+${garis + kotak} ${prefix}abstragold _Teks_
+${garis + kotak} ${prefix}biscuit _Teks_
+${garis + kotak} ${prefix}bagel _Teks_
+${garis + kotak} ${prefix}wood _Teks_
+${garis + kotak} ${prefix}hexagolden _Teks_
+${garis + kotak} ${prefix}wonderfulgraffitiart _Teks_
+${garis + kotak} ${prefix}8bit _Teks1&Teks2_
+${garis + kotak} ${prefix}pornhub _Teks1&Teks2_
+${garis + kotak} ${prefix}glitch _Teks1&Teks2_
+${garis + kotak} ${prefix}glitch2 _Teks1&Teks2_
+${garis + kotak} ${prefix}layered _Teks1&Teks2_
+${garis + kotak} ${prefix}3dsteel _Teks1&Teks2_
+${garis + kotak} ${prefix}realistic _Teks1&Teks2_
+${garis + kotak} ${prefix}lionlogo _Teks1&Teks2_
+${garis + kotak} ${prefix}ninjalogo _Teks1&Teks2_
+${garis + kotak} ${prefix}wolf _Teks1&Teks2_
+${garis + kotak} ${prefix}wolf2 _Teks1&Teks2_
+${garis + kotak} ${prefix}halloween3 _Teks1&Teks2_
+${garis + kotak} ${prefix}marvel _Teks1&Teks2_
+${garis + kotak} ${prefix}marvel2 _Teks1&Teks2_
+${garis + kotak} ${prefix}cinematichorror _Teks1&Teks2_
+${garis + kotak} ${prefix}avengers _Teks1&Teks2_
+${garis + kotak} ${prefix}graffiti3 _Teks1&Teks2_
+${garis + kotak} ${prefix}captainamerica _Teks1&Teks2_
+${garis + kotak} ${prefix}girlneko _Teks1&Teks2_
+${garis + kotak} ${prefix}sadboy _Teks1&Teks2_
+${garis + kotak} ${prefix}makerkaneki _Teks1&Teks2_
+${garis + kotak} ${prefix}rem _Teks1&Teks2_
+${garis + kotak} ${prefix}lolimaker _Teks1&Teks2_
+${garis + kotak} ${prefix}gura _Teks1&Teks2_
+${garis}
+${bawah}
+
+${atas}
+${bates} *NSFW MENU* 🔐
+${garis}
+${garis + kotak} ${prefix}ass
+${garis + kotak} ${prefix}ahegao
+${garis + kotak} ${prefix}bdsm
+${garis + kotak} ${prefix}blowjob
+${garis + kotak} ${prefix}cuckold
+${garis + kotak} ${prefix}cum
+${garis + kotak} ${prefix}ero
+${garis + kotak} ${prefix}femdom
+${garis + kotak} ${prefix}foot
+${garis + kotak} ${prefix}gangbang
+${garis + kotak} ${prefix}galsses
+${garis + kotak} ${prefix}hentai
+${garis + kotak} ${prefix}jahy
+${garis + kotak} ${prefix}masturbation
+${garis + kotak} ${prefix}neko
+${garis + kotak} ${prefix}orgy
+${garis + kotak} ${prefix}panties
+${garis + kotak} ${prefix}pussy
+${garis + kotak} ${prefix}thighs
+${garis + kotak} ${prefix}yuri
+${bawah}
+
+${atas}
 ${bates} *ASUPAN MENU* 🗿
 ${garis}
 ${garis + kotak} ${prefix}vietnam
@@ -1289,6 +1479,59 @@ ${garis}
 ${bawah}
 
 ${atas}
+${bates} *RANDOM FOTO* 🖼️
+${garis}
+${bates} *WALLPAPER*
+${garis}
+${garis + kotak} ${prefix}trans
+${garis + kotak} ${prefix}jeni
+${garis + kotak} ${prefix}jiso
+${garis + kotak} ${prefix}cecan2
+${garis + kotak} ${prefix}cogan2
+${garis + kotak} ${prefix}satanic
+${garis + kotak} ${prefix}katakata
+${garis + kotak} ${prefix}pentol
+${garis + kotak} ${prefix}kartun
+${garis + kotak} ${prefix}tatasurya
+${garis + kotak} ${prefix}cyberspace
+${garis + kotak} ${prefix}gaming
+${garis + kotak} ${prefix}islami
+${garis + kotak} ${prefix}programing
+${garis + kotak} ${prefix}teknologi
+${garis + kotak} ${prefix}mountain
+${garis + kotak} ${prefix}anime
+${garis + kotak} ${prefix}wallhp
+${garis + kotak} ${prefix}wallpaperhacker
+${garis + kotak} ${prefix}wallpaperhacker2
+${garis + kotak} ${prefix}wallpaperharley
+${garis + kotak} ${prefix}wallpaperjoker
+${garis + kotak} ${prefix}wallpaperpubg
+${garis + kotak} ${prefix}wallpaperhp
+${garis + kotak} ${prefix}wallpaperhp2
+${garis + kotak} ${prefix}wallpaperkpop
+${garis + kotak} ${prefix}wallpaperblackpink
+${garis + kotak} ${prefix}wallpapergame
+${garis}
+${bates} *FOTO LAINNYA*
+${garis}
+${garis + kotak} ${prefix}darkjokes [ GELAP ]
+${garis + kotak} ${prefix}ryujin
+${garis + kotak} ${prefix}rose
+${garis + kotak} ${prefix}justina
+${garis + kotak} ${prefix}blackpink
+${garis + kotak} ${prefix}doraemon
+${garis + kotak} ${prefix}kpop
+${garis + kotak} ${prefix}hekel
+${garis + kotak} ${prefix}pubg
+${garis + kotak} ${prefix}cecan
+${garis + kotak} ${prefix}cogan
+${garis + kotak} ${prefix}aesthetic
+${garis + kotak} ${prefix}kucing
+${garis + kotak} ${prefix}anjing
+${garis}
+${bawah}
+
+${atas}
 ${bates} *RANDOM VIDEO* 🎥
 ${garis}
 ${garis + kotak} ${prefix}beatvn
@@ -1303,6 +1546,165 @@ ${garis + kotak} ${prefix}storybus
 ${garis}
 ${bawah}
 
+${atas}
+${garis}
+${bates} *ANIME MENU* 🌚
+${garis}
+${garis + kotak} ${prefix}akira
+${garis + kotak} ${prefix}akiyama
+${garis + kotak} ${prefix}waifu2
+${garis + kotak} ${prefix}onepiece
+${garis + kotak} ${prefix}rize
+${garis + kotak} ${prefix}tsunade
+${garis + kotak} ${prefix}shota
+${garis + kotak} ${prefix}elaina
+${garis + kotak} ${prefix}waifu
+${garis + kotak} ${prefix}hestia
+${garis + kotak} ${prefix}mikasa
+${garis + kotak} ${prefix}boruto
+${garis + kotak} ${prefix}nezuko
+${garis + kotak} ${prefix}doraemon
+${garis + kotak} ${prefix}gremory
+${garis + kotak} ${prefix}megumin
+${garis + kotak} ${prefix}nekonime
+${garis + kotak} ${prefix}akiyama
+${garis + kotak} ${prefix}sakura
+${garis + kotak} ${prefix}sagiri
+${garis + kotak} ${prefix}shinka
+${garis + kotak} ${prefix}isuzu
+${garis + kotak} ${prefix}kurumi
+${garis + kotak} ${prefix}itachi
+${garis + kotak} ${prefix}emilia
+${garis + kotak} ${prefix}kaori
+${garis + kotak} ${prefix}asuna
+${garis + kotak} ${prefix}naruto
+${garis + kotak} ${prefix}sasuke
+${garis + kotak} ${prefix}shizuka
+${garis + kotak} ${prefix}kaga
+${garis + kotak} ${prefix}akira
+${garis + kotak} ${prefix}chitoge
+${garis + kotak} ${prefix}madara
+${garis + kotak} ${prefix}yuki
+${garis + kotak} ${prefix}ayuzawa
+${garis + kotak} ${prefix}ezra
+${garis + kotak} ${prefix}minato
+${garis + kotak} ${prefix}hinata
+${garis + kotak} ${prefix}kagura
+${garis + kotak} ${prefix}miku
+${garis + kotak} ${prefix}kakasih
+${garis + kotak} ${prefix}keneki
+${garis + kotak} ${prefix}toukachan
+${garis + kotak} ${prefix}kotori
+${garis + kotak} ${prefix}inori
+${garis + kotak} ${prefix}ana
+${garis + kotak} ${prefix}shina
+${garis + kotak} ${prefix}itori
+${garis + kotak} ${prefix}deidara
+${garis}
+${bawah}
+
+${atas}
+${bates} *RANDOM TEXT* 🅰️
+${garis}
+${garis + kotak} ${prefix}pantun
+${garis + kotak} ${prefix}puisi
+${garis + kotak} ${prefix}faktaunik
+${garis + kotak} ${prefix}katabijak
+${garis + kotak} ${prefix}katailham
+${garis + kotak} ${prefix}katasindiran
+${garis + kotak} ${prefix}katabucin
+${garis + kotak} ${prefix}katabucin2
+${garis + kotak} ${prefix}kataml
+${garis + kotak} ${prefix}katagalau
+${garis + kotak} ${prefix}katagombal
+${garis + kotak} ${prefix}quotes
+${garis + kotak} ${prefix}quoteskanye
+${garis + kotak} ${prefix}quotesislami
+${garis + kotak} ${prefix}quotesanime
+${garis + kotak} ${prefix}quotesdilan
+${garis + kotak} ${prefix}quotesff
+${garis + kotak} ${prefix}quotespubg
+${garis + kotak} ${prefix}quoteshacker
+${garis + kotak} ${prefix}truth
+${garis + kotak} ${prefix}dare
+${garis}
+${bawah}
+
+${atas}
+${garis}
+${bates} *SOUND MENU* 🎶
+${garis}
+${garis + kotak} ${prefix}sound1
+${garis + kotak} ${prefix}sound2
+${garis + kotak} ${prefix}sound3
+${garis + kotak} ${prefix}sound4
+${garis + kotak} ${prefix}sound5
+${garis + kotak} ${prefix}sound6
+${garis + kotak} ${prefix}sound7
+${garis + kotak} ${prefix}sound8
+${garis + kotak} ${prefix}sound9
+${garis + kotak} ${prefix}sound10
+${garis + kotak} ${prefix}sound11
+${garis + kotak} ${prefix}sound12
+${garis + kotak} ${prefix}sound13
+${garis + kotak} ${prefix}sound14
+${garis + kotak} ${prefix}sound15
+${garis + kotak} ${prefix}sound16
+${garis + kotak} ${prefix}sound17
+${garis + kotak} ${prefix}sound18
+${garis + kotak} ${prefix}sound19
+${garis + kotak} ${prefix}sound20
+${garis + kotak} ${prefix}sound21
+${garis + kotak} ${prefix}sound22
+${garis + kotak} ${prefix}sound23
+${garis + kotak} ${prefix}sound24
+${garis + kotak} ${prefix}sound25
+${garis + kotak} ${prefix}sound26
+${garis + kotak} ${prefix}sound27
+${garis + kotak} ${prefix}sound28
+${garis + kotak} ${prefix}sound29
+${garis + kotak} ${prefix}sound30
+${garis + kotak} ${prefix}sound31
+${garis + kotak} ${prefix}sound32
+${garis + kotak} ${prefix}sound33
+${garis + kotak} ${prefix}sound34
+${garis + kotak} ${prefix}sound35
+${garis + kotak} ${prefix}sound36
+${garis + kotak} ${prefix}sound37
+${garis + kotak} ${prefix}sound38
+${garis + kotak} ${prefix}sound39
+${garis + kotak} ${prefix}sound40
+${garis + kotak} ${prefix}sound41
+${garis + kotak} ${prefix}sound42
+${garis + kotak} ${prefix}sound43
+${garis + kotak} ${prefix}sound44
+${garis + kotak} ${prefix}sound45
+${garis + kotak} ${prefix}sound46
+${garis + kotak} ${prefix}sound47
+${garis + kotak} ${prefix}sound48
+${garis + kotak} ${prefix}sound49
+${garis + kotak} ${prefix}sound50
+${garis + kotak} ${prefix}sound51
+${garis + kotak} ${prefix}sound52
+${garis + kotak} ${prefix}sound53
+${garis + kotak} ${prefix}sound54
+${garis + kotak} ${prefix}sound56
+${garis + kotak} ${prefix}sound57
+${garis + kotak} ${prefix}sound58
+${garis + kotak} ${prefix}sound59
+${garis + kotak} ${prefix}sound60
+${garis + kotak} ${prefix}sound61
+${garis + kotak} ${prefix}sound62
+${garis + kotak} ${prefix}sound63
+${garis + kotak} ${prefix}sound64
+${garis + kotak} ${prefix}sound65
+${garis + kotak} ${prefix}sound66
+${garis + kotak} ${prefix}sound67
+${garis + kotak} ${prefix}sound68
+${garis + kotak} ${prefix}sound69
+${garis + kotak} ${prefix}sound70
+${garis}
+${bawah}
 
 ${atas}
 ${bates} *FUN MENU* 🎮
@@ -1321,6 +1723,142 @@ ${garis + kotak} ${prefix}delsesigelud
 ${garis}
 ${bawah}
 
+${atas}
+${bates} *RANDOM TAG MENU* 🎰
+${garis}
+${garis + kotak} ${prefix}ganteng
+${garis + kotak} ${prefix}cantik
+${garis + kotak} ${prefix}jelek
+${garis + kotak} ${prefix}goblok
+${garis + kotak} ${prefix}bego
+${garis + kotak} ${prefix}pinter
+${garis + kotak} ${prefix}jago
+${garis + kotak} ${prefix}babi
+${garis + kotak} ${prefix}beban
+${garis + kotak} ${prefix}baik
+${garis + kotak} ${prefix}jahat
+${garis + kotak} ${prefix}anjing
+${garis + kotak} ${prefix}monyet
+${garis + kotak} ${prefix}haram
+${garis + kotak} ${prefix}kontol
+${garis + kotak} ${prefix}pakboy
+${garis + kotak} ${prefix}pakgirl
+${garis + kotak} ${prefix}sadboy
+${garis + kotak} ${prefix}sadgirl
+${garis + kotak} ${prefix}wibu
+${garis + kotak} ${prefix}nolep
+${garis + kotak} ${prefix}hebat
+${garis}
+${bawah}
+
+${atas}
+${bates} *V MENU* 👥
+${garis}
+${garis + kotak} ${prefix}vsadboy
+${garis + kotak} ${prefix}vpakboy
+${garis + kotak} ${prefix}vbaik
+${garis + kotak} ${prefix}vjago
+${garis + kotak} ${prefix}vjelek
+${garis + kotak} ${prefix}vcantik
+${garis + kotak} ${prefix}vpinter
+${garis + kotak} ${prefix}vbeban
+${garis + kotak} ${prefix}vkontol
+${garis + kotak} ${prefix}vhebat
+${garis + kotak} ${prefix}vwibu
+${garis + kotak} ${prefix}vharam
+${garis + kotak} ${prefix}vbabi
+${garis + kotak} ${prefix}vbego
+${garis + kotak} ${prefix}vganteng
+${garis + kotak} ${prefix}vanjing
+${garis + kotak} ${prefix}vmonyet
+${garis + kotak} ${prefix}vsadgirl
+${garis + kotak} ${prefix}vpakgirl
+${garis + kotak} ${prefix}vjahat
+${garis + kotak} ${prefix}vnolep
+${garis + kotak} ${prefix}vgoblok
+${garis}
+${bawah}
+
+${atas}
+${bates} *X MENU* 👥
+${garis}
+${garis + kotak} ${prefix}xsadboy <@tag>
+${garis + kotak} ${prefix}xpakboy <@tag>
+${garis + kotak} ${prefix}xbaik <@tag>
+${garis + kotak} ${prefix}xjago <@tag>
+${garis + kotak} ${prefix}xjelek <@tag>
+${garis + kotak} ${prefix}xcantik <@tag>
+${garis + kotak} ${prefix}xpinter <@tag>
+${garis + kotak} ${prefix}xbeban <@tag>
+${garis + kotak} ${prefix}xkontol <@tag>
+${garis + kotak} ${prefix}xhebat <@tag>
+${garis + kotak} ${prefix}xwibu <@tag>
+${garis + kotak} ${prefix}xharam <@tag>
+${garis + kotak} ${prefix}xbabi <@tag>
+${garis + kotak} ${prefix}xbego <@tag>
+${garis + kotak} ${prefix}xganteng <@tag>
+${garis + kotak} ${prefix}xanjing <@tag>
+${garis + kotak} ${prefix}xmonyet <@tag>
+${garis + kotak} ${prefix}xsadgirl <@tag>
+${garis + kotak} ${prefix}xpakgirl <@tag>
+${garis + kotak} ${prefix}xjahat <@tag>
+${garis + kotak} ${prefix}xnolep <@tag>
+${garis + kotak} ${prefix}xgoblok <@tag>
+${garis}
+${bawah}
+
+${atas}
+${bates} *Z MENU* 👥
+${garis}
+${garis + kotak} ${prefix}zsadboy
+${garis + kotak} ${prefix}zpakboy
+${garis + kotak} ${prefix}zbaik
+${garis + kotak} ${prefix}zjago
+${garis + kotak} ${prefix}zjelek
+${garis + kotak} ${prefix}zcantik
+${garis + kotak} ${prefix}zpinter
+${garis + kotak} ${prefix}zbeban
+${garis + kotak} ${prefix}zkontol
+${garis + kotak} ${prefix}zhebat
+${garis + kotak} ${prefix}zwibu
+${garis + kotak} ${prefix}zharam
+${garis + kotak} ${prefix}zbabi
+${garis + kotak} ${prefix}zbego
+${garis + kotak} ${prefix}zganteng
+${garis + kotak} ${prefix}zanjing
+${garis + kotak} ${prefix}zmonyet
+${garis + kotak} ${prefix}zsadgirl
+${garis + kotak} ${prefix}zpakgirl
+${garis + kotak} ${prefix}zjahat
+${garis + kotak} ${prefix}znolep
+${garis + kotak} ${prefix}zgoblok
+${garis}
+${bawah}
+
+${atas}
+${bates} *CEK MENU* ✔️
+${garis}
+${garis + kotak} ${prefix}gantengcek
+${garis + kotak} ${prefix}cantikcek
+${garis + kotak} ${prefix}jelekcek
+${garis + kotak} ${prefix}goblokcek
+${garis + kotak} ${prefix}begocek
+${garis + kotak} ${prefix}pintercek
+${garis + kotak} ${prefix}jagocek
+${garis + kotak} ${prefix}nolepcek
+${garis + kotak} ${prefix}babicek
+${garis + kotak} ${prefix}bebancek
+${garis + kotak} ${prefix}baikcek
+${garis + kotak} ${prefix}jahatcek
+${garis + kotak} ${prefix}anjingcek
+${garis + kotak} ${prefix}haramcek
+${garis + kotak} ${prefix}kontolcek
+${garis + kotak} ${prefix}pakboycek
+${garis + kotak} ${prefix}pakgirlcek
+${garis + kotak} ${prefix}sangecek
+${garis + kotak} ${prefix}bapercek
+${garis}
+${bawah}
 
 ${atas}
 ${bates} *STICKER MENU* 📌
@@ -1369,10 +1907,53 @@ ${bawah}
 ║▌│█║▌│ █║▌│█│║▌║
 ║▌│█║▌│ █║▌│█│║▌║
 
+`, {jpegThumbnail:fake}, [{buttonId:`${prefix}credit`,buttonText:{displayText:'©️ Credit︎'},type:1},{buttonId:`${prefix}owner`,buttonText:{displayText:'👤 Owner Bot︎'},type:1},{buttonId:`${prefix}sewabot`,buttonText:{displayText:'📖 Sewa Bot︎'},type:1}], {contextInfo: { mentionedJid: [ptod,utod,stod]}})
+dha.sendMessage(from, anunya, audio, { mimetype: 'audio/mp4', quoted: ftroli})
+limitAdd(sender, _limit)
+break
+
 case 'credit': case 'credits': case 'tqto':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-		      
+replywa(`[ *BIG THANKS* ]
+${kotak} TUHAN YANG MAHA ESA
+${kotak} Orang Tua Ku
+
+[ *THANKS TO* ]
+${kotak} *Yudha* [ Base Bot ]
+- https://youtube.com/c/DHABOTZ
+
+${kotak} *DhaniGans* [ REST API ]
+-https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA
+
+${kotak} *FebzaBotz* [ Rpg Menu ] 
+- https://youtube.com/c/FEBZABOTZ
+
+${kotak} *Nayla* [ Maker ]
+- https://youtube.com/channel/UCeQaKIQQhDNHMOq_odQh5Sw
+
+${kotak} *Zeeone Ofc* [ Auto Bio ]
+- https://youtube.com/c/ZEEONEOFC
+
+${kotak} *Dapuhy* [ Rest Api ] 
+- https://dapuhy.xyz
+ 
+${kotak} *Rey* [ Rest Api ] 
+- https://server-api-rey.herokuapp.com
+
+${kotak} *Zeks* [ Rest Api ]
+- https://zeks.me
+
+
+${kotak} *Yeriko Nata*
+- https://youtube.com/channel/UCrDbOl8d46n9XI884qSAVrg
+
+${kotak} *${NamaOwner}*
+- ${ytown}
+
+[ *PESAN* ]
+Terimakasih Buat Nama Nama Yang Tersebut Di Atas🌚
+
 © ${NamaBot}`)
 limitAdd(sender, _limit) 
 break
@@ -1923,7 +2504,7 @@ if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quote
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
 if (!q) return reply('Nyri Apa?')
 reply(mess.wait)
-yutub = await fetchJson(`https://api.zeks.me/api/yts?apikey=${apivinz}&q=${q}`)
+yutub = await fetchJson(`https://api.zeks.me/api/yts?apikey=${apizeks}&q=${q}`)
 yutub1 = '*YOUTUBE SEARCH\n\n'
 for (let y of yutub.result) {
 yutub1 +=`*Judul* : ${y.video.title}\n`
@@ -3552,6 +4133,20 @@ dha.sendMessage(from, girlneko, image, {caption: `*Nih kak dah jadi*`, quoted: m
 limitAdd(sender, _limit) 
 break
 
+//═════════════════════════ [ 18+ MENU ] ═════════════════════════
+//═════════════════════════ [ COPAS AJA ] ════════════════════════
+//═════════════════════════ [ API GW ] ═════════════════════════
+
+case 'ass': case 'ahegao': case 'bdsm': case 'blowjob': case 'cuckold': case 'cum': case 'ero': case 'femdom': case 'foot': case 'gangbang': case 'glasses': case 'hentai': case 'jahy': case 'masturbation': case 'neko': case 'orgy': case 'panties': case 'pussy': case 'thighs': case 'yuri': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isPremium && !isOwner && !mek.key.fromMe) return reply('Fitur Ini Khusus User Premium Ingin Beli Premium?Hubungi Owner Yang Bersangkutan')
+reply(mess.wait)
+bikep = await fetchJson(`https://rest2yeriko.herokuapp.com/api/nsfw/${command}?apikey=Yuzzu`)
+bokep = await getBuffer(bikep.result)
+sendButImage(from, `JANGAN KE WC DULU BRO\nDOSA TANGGUNG USER SENDIRI`, `MAU LAGI?KLIK BUTTON DI BAWAH⬇️⬇️`, bokep, [{buttonId: `${prefix}${command}`,buttonText: {displayText: `AGAIN➡️`,},type: 1,},]);
+limitAdd(sender, _limit)
+break
 
 //═════════════════════════ [ ASUPAN MENU ] ═════════════════════════
 //═════════════════════════ [ COPAS AJA ] ════════════════════════
@@ -3584,7 +4179,7 @@ break
 //═════════════════════════ [ API REYY ] ═════════════════════════
 
 // WALLPAPER
-case 'cecan2': case 'cogan2': case 'katakata': case 'pentol': case 'kartun': case 'tatasurya': case 'cyberspace': case 'gaming': case 'islami': case 'programing': case 'teknologi': case 'mountain': case 'wallhp': case 'anime': 
+case 'trans': case 'jeni': case 'jiso': case 'cecan2': case 'cogan2': case 'satanic': case 'katakata': case 'pentol': case 'kartun': case 'tatasurya': case 'cyberspace': case 'gaming': case 'islami': case 'programing': case 'teknologi': case 'mountain': case 'wallhp': case 'anime': 
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
 reply(mess.wait)
@@ -3599,6 +4194,8 @@ case 'wallpaperjoker':
 case 'wallpaperpubg':
 case 'wallpaperhp':
 case 'wallpaperhp2':
+case 'wallpaperkpop':
+case 'wallpaperblackpink':
 case 'wallpapergame':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
@@ -4281,6 +4878,390 @@ pict = await getBuffer(pictt)
 dha.sendMessage(from, pict, image, {quoted: mek})
 limitAdd(sender, _limit)
 break 
+//═════════════════════════ [ FUN MENU ] ═════════════════════════
+//═════════════════════════ [ CASE BY NAYLA ] ═════════════════════════
+//═════════════════════════ [ NO API ] ═════════════════════════
+case 'xkontol':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK') 
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
+limitAdd(sender, _limit)
+break 	
+case 'xganteng': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
+limitAdd(sender, _limit)
+break 	
+case 'xcantik': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
+limitAdd(sender, _limit)
+break 	
+case 'xjelek': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
+limitAdd(sender, _limit)
+break 	
+case 'xgoblok': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
+limitAdd(sender, _limit)
+break
+case 'xbego': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xpintar': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xjago': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xnolep': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xmonyet':		 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	 
+case 'xbabi': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xbeban': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xbaik': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xjahat': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xanjing':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 
+case 'xharam': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 
+case 'xpakboy': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xpakgirl':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 
+case 'xwibu': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xhebat': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xsadboy': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break 	
+case 'xsadgirl': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUB")
+if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
+dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
+limitAdd(sender, _limit)
+break
+case 'vganteng': case 'vcantik': case 'vjelek': case 'vgoblok':
+case 'vbego': case 'vpintar': case 'vjago': case 'vnolep': case 'vmonyet':
+case 'vbabi': case 'vbeban': case 'vbaik': case 'vjahat': case 'vanjing': 
+case 'vharam': case 'vkontol': case 'vpakboy': case 'vpakgirl': 
+case 'vwibu': case 'vhebat': case 'vsadboy': case 'vsadgirl':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply("ONLY GRUP")
+jds = []
+const AS1 = groupMembers
+const CS1 = AS1[Math.floor(Math.random() * AS1.length)]
+const vcardd = 'BEGIN:VCARD\n' 
++ 'VERSION:3.0\n' 
++ `FN:${command1}\n` 
++ `ORG: Yang Ter ${command1};\n`
++ `TEL;type=CELL;type=VOICE;waid=${CS1.jid.split('@')[0]}:+${CS1.jid.split('@')[0]}\n`
++ 'END:VCARD' 
+dha.sendMessage(from, {displayname: "Jeff", vcard: vcardd}, MessageType.contact, { quoted: mek})
+reply(`dia yang *ter${command1}* disini`)
+limitAdd(sender, _limit)
+break 
+case 'zganteng': case 'zcantik': case 'zjelek': case 'zgoblok':
+case 'zbego': case 'zpintar': case 'zjago': case 'znolep': case 'zmonyet':
+case 'zbabi': case 'zbeban': case 'zbaik': case 'zjahat': case 'zanjing': 
+case 'zharam': case 'zkontol': case 'zpakboy': case 'zpakgirl': 
+case 'zwibu': case 'zhebat': case 'zsadboy': case 'zsadgirl':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+nyy = fs.readFileSync('./ztag.webp')
+if (!isGroup) return reply("ONLY GRUB") 	 
+const AS11 = groupMembers		 
+const CS21 = AS11[Math.floor(Math.random() * AS11.length)]		 
+dha.sendMessage(from, nyy, sticker, {quoted: { key: { fromMe: false, participant: `${CS21.jid.split('@')[0]}@s.whatsapp.net`, ...(from ? { remoteJid: from } : {}) }, message: { conversation: `aku adalah yang *ter${command1}* disini` }}})
+limitAdd(sender, _limit)
+break
+case 'ganteng': case 'cantik': case 'jelek': case 'goblok':
+case 'bego': case 'pinter': case 'jago': case 'nolep': case 'monyet':
+case 'babi': case 'beban': case 'baik': case 'jahat': case 'anjing': 
+case 'haram': case 'kontol': case 'pakboy': case 'pakgirl': 
+case 'wibu': case 'hebat': case 'sadboy': case 'sadgirl': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+if (!isGroup) return reply(`Ini Bukan Grub Ya Ajg🌹🤙`)
+jds = []
+const A1 = groupMembers
+const B1 = groupMembers
+const C1 = A1[Math.floor(Math.random() * A1.length)]
+D1 = `yang *ter${command}* disini adalah @${C1.jid.split('@')[0]}` 
+jds.push(C1.jid)
+mentions(D1, jds, true)
+limitAdd(sender, _limit)
+break
+case 'gantengcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *GANTENGAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😎`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'cantikcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *CANTIKAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}% 😁*`
+reply(N)
+limitAdd(sender, _limit)
+break
+case 'jelekcek': 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *J3L3K4N* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🤢`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'goblokcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *GOBLOKAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🤣`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'begocek':	 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *BEGO* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😂`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'pintercek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *PINTARAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😗`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'jagocek':	 
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *JAGOAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 💪`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'nolepcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *NOLEPAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🧐`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'babicek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *BABIAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🤪`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'bebancek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *BEBANAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🤬`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'baikcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *BAIKAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😇`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'jahatcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *JAHATAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😈`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'anjingcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
+N = `KE *ANJINGAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 👀`
+reply(N)
+limitAdd(sender, _limit)
+break
+case 'haramcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *HARAMAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🥴`
+reply(N)
+limitAdd(sender, _limit)
+break
+case 'kontolcek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
+N = `KE *KOMTOLAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🙂`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'pakboycek':	
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
+N = `KE *PAKBOYZ* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😏`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'pakgirlcek':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
+N = `KE *PAKGILR* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😏`
+reply(N)
+limitAdd(sender, _limit)
+break 
+case 'sangecek':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return	
+N = `JIWA *SANGE* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 🤤`
+reply(N)
+limitAdd(sender, _limit)
+break
+case 'bapercek':
+if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
+if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return	  
+N = `JIWA *BEPERAN* KAMU\n`
+N += `ADALAH : *${mekla3}${mekla4}%* 😘`
+reply(N)
+limitAdd(sender, _limit)
+break 
+
 
 //═════════════════════════ [ FUN MENU ] ═════════════════════════
 //═════════════════════════ [ COPAS AJA ] ═════════════════════════
@@ -4444,7 +5425,7 @@ break
 case 'family100':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-game4 = await fetchJson(`https://api.zeks.me/api/family100?apikey=${apivinz}`)
+game4 = await fetchJson(`https://api.zeks.me/api/family100?apikey=${apizeks}`)
 setTimeout ( () => {
 reply(`${kotak}Pertanyaan : *${game4.data.pertanyaan}*`)
 }, 0)
@@ -4591,7 +5572,89 @@ dha.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "
 limitAdd(sender, _limit)
 break
 
-		      
+
+//═════════════════════════ [ SOUND MENU ] ═════════════════════════
+//═════════════════════════ [ BY YERIKO ] ═════════════════════════
+//═════════════════════════ [ COPAS? SILAHKAN 🗿👍 ] ═════════════════════════
+
+
+case 'sound1':
+case 'sound2':
+case 'sound3':
+case 'sound4':
+case 'sound5':
+case 'sound6':
+case 'sound7':
+case 'sound8':
+case 'sound9':
+case 'sound10':
+case 'sound11':
+case 'sound12':
+case 'sound13':
+case 'sound14':
+case 'sound15':
+case 'sound16':
+case 'sound17':
+case 'sound18':
+case 'sound19':
+case 'sound20':
+case 'sound21':
+case 'sound22':
+case 'sound23':
+case 'sound24':
+case 'sound25':
+case 'sound26':
+case 'sound27':
+case 'sound28':
+case 'sound29':
+case 'sound30':
+case 'sound31':
+case 'sound32':
+case 'sound33':
+case 'sound34':
+case 'sound35':
+case 'sound36':
+case 'sound37':
+case 'sound38':
+case 'sound39':
+case 'sound40':
+case 'sound41':
+case 'sound42':
+case 'sound43':
+case 'sound44':
+case 'sound45':
+case 'sound46':
+case 'sound47':
+case 'sound48':
+case 'sound49':
+case 'sound50':
+case 'sound51':
+case 'sound52':
+case 'sound53':
+case 'sound54':
+case 'sound55':
+case 'sound56':
+case 'sound57':
+case 'sound58':
+case 'sound59':
+case 'sound60':
+case 'sound61':
+case 'sound62':
+case 'sound63':
+case 'sound64':
+case 'sound65':
+case 'sound66':
+case 'sound67':
+case 'sound68':
+case 'sound69':
+case 'sound70':
+case 'sound70':
+reply(mess.wait)
+omkeh = await getBuffer(`https://hansxd.nasihosting.com/sound/${command}.mp3`)
+dha.sendMessage(from, omkeh, MessageType.audio, { quoted: mek, mimetype: 'audio/mp4', ptt: true })
+break
+
+
 //═════════════════════════ [ END ALL FITUR ] ═════════════════════════
 //═════════════════════════ [ WHATSAPP BOT BY YERIKO ] ═════════════════════════
 //═════════════════════════ [ COPAS? SILAHKAN 🗿👍 ] ═════════════════════════
