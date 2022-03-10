@@ -5427,7 +5427,7 @@ if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quote
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
 game4 = await fetchJson(`https://fatiharridho.my.id/database/games/family100.json?apikey=${apizeks}`)
 setTimeout ( () => {
-reply(`${kotak}Pertanyaan : *${game4.data.pertanyaan}*`)
+reply(`${kotak}soal : *${game4.data.soal}*`)
 }, 0)
 setTimeout ( () => {
 reply(`_WAKTU HABIS_\nJawaban : ${game4.data.jawaban.string}`)
