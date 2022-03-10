@@ -1649,11 +1649,6 @@ ${bawah}
 ║▌│█║▌│ █║▌│█│║▌║
 ║▌│█║▌│ █║▌│█│║▌║
 
-`, {jpegThumbnail:fake}, [{buttonId:`${prefix}credit`,buttonText:{displayText:'©️ Credit︎'},type:1},{buttonId:`${prefix}owner`,buttonText:{displayText:'👤 Owner Bot︎'},type:1},{buttonId:`${prefix}sewabot`,buttonText:{displayText:'📖 Sewa Bot︎'},type:1}], {contextInfo: { mentionedJid: [ptod,utod,stod]}})
-dha.sendMessage(from, anunya, audio, { mimetype: 'audio/mp4', quoted: ftroli})
-limitAdd(sender, _limit)
-break
-
 case 'credit': case 'credits': case 'tqto':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
