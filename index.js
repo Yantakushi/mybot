@@ -1908,7 +1908,6 @@ ${bawah}
 ║▌│█║▌│ █║▌│█│║▌║
 
 `, {jpegThumbnail:fake}, [{buttonId:`${prefix}credit`,buttonText:{displayText:'©️ Credit︎'},type:1},{buttonId:`${prefix}owner`,buttonText:{displayText:'👤 Owner Bot︎'},type:1},{buttonId:`${prefix}sewabot`,buttonText:{displayText:'📖 Sewa Bot︎'},type:1}], {contextInfo: { mentionedJid: [ptod,utod,stod]}})
-dha.sendMessage(from, anunya, audio, { mimetype: 'audio/mp4', quoted: ftroli})
 limitAdd(sender, _limit)
 break
 
