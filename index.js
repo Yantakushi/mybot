@@ -1458,19 +1458,14 @@ ${bates} *RANDOM FOTO* 🖼️
 ${garis}
 ${bates} *WALLPAPER*
 ${garis}
-${garis + kotak} ${prefix}trans
-${garis + kotak} ${prefix}jeni
-${garis + kotak} ${prefix}jiso
 ${garis + kotak} ${prefix}cecan2
 ${garis + kotak} ${prefix}cogan2
-${garis + kotak} ${prefix}satanic
 ${garis + kotak} ${prefix}katakata
 ${garis + kotak} ${prefix}pentol
 ${garis + kotak} ${prefix}kartun
 ${garis + kotak} ${prefix}tatasurya
 ${garis + kotak} ${prefix}cyberspace
 ${garis + kotak} ${prefix}gaming
-${garis + kotak} ${prefix}islami
 ${garis + kotak} ${prefix}programing
 ${garis + kotak} ${prefix}teknologi
 ${garis + kotak} ${prefix}mountain
@@ -1483,8 +1478,6 @@ ${garis + kotak} ${prefix}wallpaperjoker
 ${garis + kotak} ${prefix}wallpaperpubg
 ${garis + kotak} ${prefix}wallpaperhp
 ${garis + kotak} ${prefix}wallpaperhp2
-${garis + kotak} ${prefix}wallpaperkpop
-${garis + kotak} ${prefix}wallpaperblackpink
 ${garis + kotak} ${prefix}wallpapergame
 ${garis}
 ${bates} *FOTO LAINNYA*
@@ -1608,115 +1601,6 @@ ${garis + kotak} ${prefix}delsesigelud
 ${garis}
 ${bawah}
 
-${atas}
-${bates} *RANDOM TAG MENU* 🎰
-${garis}
-${garis + kotak} ${prefix}ganteng
-${garis + kotak} ${prefix}cantik
-${garis + kotak} ${prefix}jelek
-${garis + kotak} ${prefix}goblok
-${garis + kotak} ${prefix}bego
-${garis + kotak} ${prefix}pinter
-${garis + kotak} ${prefix}jago
-${garis + kotak} ${prefix}babi
-${garis + kotak} ${prefix}beban
-${garis + kotak} ${prefix}baik
-${garis + kotak} ${prefix}jahat
-${garis + kotak} ${prefix}anjing
-${garis + kotak} ${prefix}monyet
-${garis + kotak} ${prefix}haram
-${garis + kotak} ${prefix}kontol
-${garis + kotak} ${prefix}pakboy
-${garis + kotak} ${prefix}pakgirl
-${garis + kotak} ${prefix}sadboy
-${garis + kotak} ${prefix}sadgirl
-${garis + kotak} ${prefix}wibu
-${garis + kotak} ${prefix}nolep
-${garis + kotak} ${prefix}hebat
-${garis}
-${bawah}
-
-
-${atas}
-${bates} *X MENU* 👥
-${garis}
-${garis + kotak} ${prefix}xsadboy <@tag>
-${garis + kotak} ${prefix}xpakboy <@tag>
-${garis + kotak} ${prefix}xbaik <@tag>
-${garis + kotak} ${prefix}xjago <@tag>
-${garis + kotak} ${prefix}xjelek <@tag>
-${garis + kotak} ${prefix}xcantik <@tag>
-${garis + kotak} ${prefix}xpinter <@tag>
-${garis + kotak} ${prefix}xbeban <@tag>
-${garis + kotak} ${prefix}xkontol <@tag>
-${garis + kotak} ${prefix}xhebat <@tag>
-${garis + kotak} ${prefix}xwibu <@tag>
-${garis + kotak} ${prefix}xharam <@tag>
-${garis + kotak} ${prefix}xbabi <@tag>
-${garis + kotak} ${prefix}xbego <@tag>
-${garis + kotak} ${prefix}xganteng <@tag>
-${garis + kotak} ${prefix}xanjing <@tag>
-${garis + kotak} ${prefix}xmonyet <@tag>
-${garis + kotak} ${prefix}xsadgirl <@tag>
-${garis + kotak} ${prefix}xpakgirl <@tag>
-${garis + kotak} ${prefix}xjahat <@tag>
-${garis + kotak} ${prefix}xnolep <@tag>
-${garis + kotak} ${prefix}xgoblok <@tag>
-${garis}
-${bawah}
-
-${atas}
-${bates} *Z MENU* 👥
-${garis}
-${garis + kotak} ${prefix}zsadboy
-${garis + kotak} ${prefix}zpakboy
-${garis + kotak} ${prefix}zbaik
-${garis + kotak} ${prefix}zjago
-${garis + kotak} ${prefix}zjelek
-${garis + kotak} ${prefix}zcantik
-${garis + kotak} ${prefix}zpinter
-${garis + kotak} ${prefix}zbeban
-${garis + kotak} ${prefix}zkontol
-${garis + kotak} ${prefix}zhebat
-${garis + kotak} ${prefix}zwibu
-${garis + kotak} ${prefix}zharam
-${garis + kotak} ${prefix}zbabi
-${garis + kotak} ${prefix}zbego
-${garis + kotak} ${prefix}zganteng
-${garis + kotak} ${prefix}zanjing
-${garis + kotak} ${prefix}zmonyet
-${garis + kotak} ${prefix}zsadgirl
-${garis + kotak} ${prefix}zpakgirl
-${garis + kotak} ${prefix}zjahat
-${garis + kotak} ${prefix}znolep
-${garis + kotak} ${prefix}zgoblok
-${garis}
-${bawah}
-
-${atas}
-${bates} *CEK MENU* ✔️
-${garis}
-${garis + kotak} ${prefix}gantengcek
-${garis + kotak} ${prefix}cantikcek
-${garis + kotak} ${prefix}jelekcek
-${garis + kotak} ${prefix}goblokcek
-${garis + kotak} ${prefix}begocek
-${garis + kotak} ${prefix}pintercek
-${garis + kotak} ${prefix}jagocek
-${garis + kotak} ${prefix}nolepcek
-${garis + kotak} ${prefix}babicek
-${garis + kotak} ${prefix}bebancek
-${garis + kotak} ${prefix}baikcek
-${garis + kotak} ${prefix}jahatcek
-${garis + kotak} ${prefix}anjingcek
-${garis + kotak} ${prefix}haramcek
-${garis + kotak} ${prefix}kontolcek
-${garis + kotak} ${prefix}pakboycek
-${garis + kotak} ${prefix}pakgirlcek
-${garis + kotak} ${prefix}sangecek
-${garis + kotak} ${prefix}bapercek
-${garis}
-${bawah}
 
 ${atas}
 ${bates} *STICKER MENU* 📌
@@ -4023,7 +3907,7 @@ break
 //═════════════════════════ [ API REYY ] ═════════════════════════
 
 // WALLPAPER
-case 'trans': case 'jeni': case 'jiso': case 'cecan2': case 'cogan2': case 'satanic': case 'katakata': case 'pentol': case 'kartun': case 'tatasurya': case 'cyberspace': case 'gaming': case 'islami': case 'programing': case 'teknologi': case 'mountain': case 'wallhp': case 'anime': 
+case 'cecan2': case 'cogan2': case 'katakata': case 'pentol': case 'kartun': case 'tatasurya': case 'cyberspace': case 'gaming': case 'islami': case 'programing': case 'teknologi': case 'mountain': case 'wallhp': case 'anime': 
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
 reply(mess.wait)
@@ -4038,8 +3922,6 @@ case 'wallpaperjoker':
 case 'wallpaperpubg':
 case 'wallpaperhp':
 case 'wallpaperhp2':
-case 'wallpaperkpop':
-case 'wallpaperblackpink':
 case 'wallpapergame':
 if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
