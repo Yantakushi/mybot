@@ -1530,51 +1530,37 @@ ${garis + kotak} ${prefix}akiyama
 ${garis + kotak} ${prefix}waifu2
 ${garis + kotak} ${prefix}onepiece
 ${garis + kotak} ${prefix}rize
-${garis + kotak} ${prefix}tsunade
-${garis + kotak} ${prefix}shota
 ${garis + kotak} ${prefix}elaina
 ${garis + kotak} ${prefix}waifu
 ${garis + kotak} ${prefix}hestia
 ${garis + kotak} ${prefix}mikasa
-${garis + kotak} ${prefix}boruto
 ${garis + kotak} ${prefix}nezuko
-${garis + kotak} ${prefix}doraemon
-${garis + kotak} ${prefix}gremory
 ${garis + kotak} ${prefix}megumin
 ${garis + kotak} ${prefix}nekonime
-${garis + kotak} ${prefix}akiyama
 ${garis + kotak} ${prefix}sakura
 ${garis + kotak} ${prefix}sagiri
 ${garis + kotak} ${prefix}shinka
 ${garis + kotak} ${prefix}isuzu
 ${garis + kotak} ${prefix}kurumi
-${garis + kotak} ${prefix}itachi
 ${garis + kotak} ${prefix}emilia
 ${garis + kotak} ${prefix}kaori
 ${garis + kotak} ${prefix}asuna
-${garis + kotak} ${prefix}naruto
-${garis + kotak} ${prefix}sasuke
 ${garis + kotak} ${prefix}shizuka
 ${garis + kotak} ${prefix}kaga
 ${garis + kotak} ${prefix}akira
 ${garis + kotak} ${prefix}chitoge
-${garis + kotak} ${prefix}madara
 ${garis + kotak} ${prefix}yuki
 ${garis + kotak} ${prefix}ayuzawa
 ${garis + kotak} ${prefix}ezra
-${garis + kotak} ${prefix}minato
 ${garis + kotak} ${prefix}hinata
 ${garis + kotak} ${prefix}kagura
 ${garis + kotak} ${prefix}miku
-${garis + kotak} ${prefix}kakasih
-${garis + kotak} ${prefix}keneki
 ${garis + kotak} ${prefix}toukachan
 ${garis + kotak} ${prefix}kotori
 ${garis + kotak} ${prefix}inori
 ${garis + kotak} ${prefix}ana
 ${garis + kotak} ${prefix}shina
 ${garis + kotak} ${prefix}itori
-${garis + kotak} ${prefix}deidara
 ${garis}
 ${bawah}
 
@@ -1602,82 +1588,6 @@ ${garis + kotak} ${prefix}quotespubg
 ${garis + kotak} ${prefix}quoteshacker
 ${garis + kotak} ${prefix}truth
 ${garis + kotak} ${prefix}dare
-${garis}
-${bawah}
-
-${atas}
-${garis}
-${bates} *SOUND MENU* 🎶
-${garis}
-${garis + kotak} ${prefix}sound1
-${garis + kotak} ${prefix}sound2
-${garis + kotak} ${prefix}sound3
-${garis + kotak} ${prefix}sound4
-${garis + kotak} ${prefix}sound5
-${garis + kotak} ${prefix}sound6
-${garis + kotak} ${prefix}sound7
-${garis + kotak} ${prefix}sound8
-${garis + kotak} ${prefix}sound9
-${garis + kotak} ${prefix}sound10
-${garis + kotak} ${prefix}sound11
-${garis + kotak} ${prefix}sound12
-${garis + kotak} ${prefix}sound13
-${garis + kotak} ${prefix}sound14
-${garis + kotak} ${prefix}sound15
-${garis + kotak} ${prefix}sound16
-${garis + kotak} ${prefix}sound17
-${garis + kotak} ${prefix}sound18
-${garis + kotak} ${prefix}sound19
-${garis + kotak} ${prefix}sound20
-${garis + kotak} ${prefix}sound21
-${garis + kotak} ${prefix}sound22
-${garis + kotak} ${prefix}sound23
-${garis + kotak} ${prefix}sound24
-${garis + kotak} ${prefix}sound25
-${garis + kotak} ${prefix}sound26
-${garis + kotak} ${prefix}sound27
-${garis + kotak} ${prefix}sound28
-${garis + kotak} ${prefix}sound29
-${garis + kotak} ${prefix}sound30
-${garis + kotak} ${prefix}sound31
-${garis + kotak} ${prefix}sound32
-${garis + kotak} ${prefix}sound33
-${garis + kotak} ${prefix}sound34
-${garis + kotak} ${prefix}sound35
-${garis + kotak} ${prefix}sound36
-${garis + kotak} ${prefix}sound37
-${garis + kotak} ${prefix}sound38
-${garis + kotak} ${prefix}sound39
-${garis + kotak} ${prefix}sound40
-${garis + kotak} ${prefix}sound41
-${garis + kotak} ${prefix}sound42
-${garis + kotak} ${prefix}sound43
-${garis + kotak} ${prefix}sound44
-${garis + kotak} ${prefix}sound45
-${garis + kotak} ${prefix}sound46
-${garis + kotak} ${prefix}sound47
-${garis + kotak} ${prefix}sound48
-${garis + kotak} ${prefix}sound49
-${garis + kotak} ${prefix}sound50
-${garis + kotak} ${prefix}sound51
-${garis + kotak} ${prefix}sound52
-${garis + kotak} ${prefix}sound53
-${garis + kotak} ${prefix}sound54
-${garis + kotak} ${prefix}sound56
-${garis + kotak} ${prefix}sound57
-${garis + kotak} ${prefix}sound58
-${garis + kotak} ${prefix}sound59
-${garis + kotak} ${prefix}sound60
-${garis + kotak} ${prefix}sound61
-${garis + kotak} ${prefix}sound62
-${garis + kotak} ${prefix}sound63
-${garis + kotak} ${prefix}sound64
-${garis + kotak} ${prefix}sound65
-${garis + kotak} ${prefix}sound66
-${garis + kotak} ${prefix}sound67
-${garis + kotak} ${prefix}sound68
-${garis + kotak} ${prefix}sound69
-${garis + kotak} ${prefix}sound70
 ${garis}
 ${bawah}
 
@@ -1726,33 +1636,6 @@ ${garis + kotak} ${prefix}hebat
 ${garis}
 ${bawah}
 
-${atas}
-${bates} *V MENU* 👥
-${garis}
-${garis + kotak} ${prefix}vsadboy
-${garis + kotak} ${prefix}vpakboy
-${garis + kotak} ${prefix}vbaik
-${garis + kotak} ${prefix}vjago
-${garis + kotak} ${prefix}vjelek
-${garis + kotak} ${prefix}vcantik
-${garis + kotak} ${prefix}vpinter
-${garis + kotak} ${prefix}vbeban
-${garis + kotak} ${prefix}vkontol
-${garis + kotak} ${prefix}vhebat
-${garis + kotak} ${prefix}vwibu
-${garis + kotak} ${prefix}vharam
-${garis + kotak} ${prefix}vbabi
-${garis + kotak} ${prefix}vbego
-${garis + kotak} ${prefix}vganteng
-${garis + kotak} ${prefix}vanjing
-${garis + kotak} ${prefix}vmonyet
-${garis + kotak} ${prefix}vsadgirl
-${garis + kotak} ${prefix}vpakgirl
-${garis + kotak} ${prefix}vjahat
-${garis + kotak} ${prefix}vnolep
-${garis + kotak} ${prefix}vgoblok
-${garis}
-${bawah}
 
 ${atas}
 ${bates} *X MENU* 👥
@@ -4839,390 +4722,6 @@ pict = await getBuffer(pictt)
 dha.sendMessage(from, pict, image, {quoted: mek})
 limitAdd(sender, _limit)
 break 
-//═════════════════════════ [ FUN MENU ] ═════════════════════════
-//═════════════════════════ [ CASE BY NAYLA ] ═════════════════════════
-//═════════════════════════ [ NO API ] ═════════════════════════
-case 'xkontol':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK') 
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
-limitAdd(sender, _limit)
-break 	
-case 'xganteng': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
-limitAdd(sender, _limit)
-break 	
-case 'xcantik': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
-limitAdd(sender, _limit)
-break 	
-case 'xjelek': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
-limitAdd(sender, _limit)
-break 	
-case 'xgoblok': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 
-limitAdd(sender, _limit)
-break
-case 'xbego': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xpintar': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xjago': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xnolep': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xmonyet':		 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	 
-case 'xbabi': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xbeban': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xbaik': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xjahat': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xanjing':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 
-case 'xharam': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 
-case 'xpakboy': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xpakgirl':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 
-case 'xwibu': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xhebat': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xsadboy': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break 	
-case 'xsadgirl': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUB")
-if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('TAG ORANG KAK')
-dha.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} }) 		
-limitAdd(sender, _limit)
-break
-case 'vganteng': case 'vcantik': case 'vjelek': case 'vgoblok':
-case 'vbego': case 'vpintar': case 'vjago': case 'vnolep': case 'vmonyet':
-case 'vbabi': case 'vbeban': case 'vbaik': case 'vjahat': case 'vanjing': 
-case 'vharam': case 'vkontol': case 'vpakboy': case 'vpakgirl': 
-case 'vwibu': case 'vhebat': case 'vsadboy': case 'vsadgirl':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply("ONLY GRUP")
-jds = []
-const AS1 = groupMembers
-const CS1 = AS1[Math.floor(Math.random() * AS1.length)]
-const vcardd = 'BEGIN:VCARD\n' 
-+ 'VERSION:3.0\n' 
-+ `FN:${command1}\n` 
-+ `ORG: Yang Ter ${command1};\n`
-+ `TEL;type=CELL;type=VOICE;waid=${CS1.jid.split('@')[0]}:+${CS1.jid.split('@')[0]}\n`
-+ 'END:VCARD' 
-dha.sendMessage(from, {displayname: "Jeff", vcard: vcardd}, MessageType.contact, { quoted: mek})
-reply(`dia yang *ter${command1}* disini`)
-limitAdd(sender, _limit)
-break 
-case 'zganteng': case 'zcantik': case 'zjelek': case 'zgoblok':
-case 'zbego': case 'zpintar': case 'zjago': case 'znolep': case 'zmonyet':
-case 'zbabi': case 'zbeban': case 'zbaik': case 'zjahat': case 'zanjing': 
-case 'zharam': case 'zkontol': case 'zpakboy': case 'zpakgirl': 
-case 'zwibu': case 'zhebat': case 'zsadboy': case 'zsadgirl':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-nyy = fs.readFileSync('./ztag.webp')
-if (!isGroup) return reply("ONLY GRUB") 	 
-const AS11 = groupMembers		 
-const CS21 = AS11[Math.floor(Math.random() * AS11.length)]		 
-dha.sendMessage(from, nyy, sticker, {quoted: { key: { fromMe: false, participant: `${CS21.jid.split('@')[0]}@s.whatsapp.net`, ...(from ? { remoteJid: from } : {}) }, message: { conversation: `aku adalah yang *ter${command1}* disini` }}})
-limitAdd(sender, _limit)
-break
-case 'ganteng': case 'cantik': case 'jelek': case 'goblok':
-case 'bego': case 'pinter': case 'jago': case 'nolep': case 'monyet':
-case 'babi': case 'beban': case 'baik': case 'jahat': case 'anjing': 
-case 'haram': case 'kontol': case 'pakboy': case 'pakgirl': 
-case 'wibu': case 'hebat': case 'sadboy': case 'sadgirl': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-if (!isGroup) return reply(`Ini Bukan Grub Ya Ajg🌹🤙`)
-jds = []
-const A1 = groupMembers
-const B1 = groupMembers
-const C1 = A1[Math.floor(Math.random() * A1.length)]
-D1 = `yang *ter${command}* disini adalah @${C1.jid.split('@')[0]}` 
-jds.push(C1.jid)
-mentions(D1, jds, true)
-limitAdd(sender, _limit)
-break
-case 'gantengcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *GANTENGAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😎`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'cantikcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *CANTIKAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}% 😁*`
-reply(N)
-limitAdd(sender, _limit)
-break
-case 'jelekcek': 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *J3L3K4N* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🤢`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'goblokcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *GOBLOKAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🤣`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'begocek':	 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *BEGO* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😂`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'pintercek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *PINTARAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😗`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'jagocek':	 
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *JAGOAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 💪`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'nolepcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *NOLEPAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🧐`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'babicek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *BABIAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🤪`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'bebancek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *BEBANAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🤬`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'baikcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *BAIKAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😇`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'jahatcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *JAHATAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😈`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'anjingcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
-N = `KE *ANJINGAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 👀`
-reply(N)
-limitAdd(sender, _limit)
-break
-case 'haramcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *HARAMAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🥴`
-reply(N)
-limitAdd(sender, _limit)
-break
-case 'kontolcek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
-N = `KE *KOMTOLAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🙂`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'pakboycek':	
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return 
-N = `KE *PAKBOYZ* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😏`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'pakgirlcek':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
-N = `KE *PAKGILR* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😏`
-reply(N)
-limitAdd(sender, _limit)
-break 
-case 'sangecek':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return	
-N = `JIWA *SANGE* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 🤤`
-reply(N)
-limitAdd(sender, _limit)
-break
-case 'bapercek':
-if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: mek})
-if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return	  
-N = `JIWA *BEPERAN* KAMU\n`
-N += `ADALAH : *${mekla3}${mekla4}%* 😘`
-reply(N)
-limitAdd(sender, _limit)
-break 
-
 
 //═════════════════════════ [ FUN MENU ] ═════════════════════════
 //═════════════════════════ [ COPAS AJA ] ═════════════════════════
@@ -5533,89 +5032,7 @@ dha.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "
 limitAdd(sender, _limit)
 break
 
-
-//═════════════════════════ [ SOUND MENU ] ═════════════════════════
-//═════════════════════════ [ BY YERIKO ] ═════════════════════════
-//═════════════════════════ [ COPAS? SILAHKAN 🗿👍 ] ═════════════════════════
-
-
-case 'sound1':
-case 'sound2':
-case 'sound3':
-case 'sound4':
-case 'sound5':
-case 'sound6':
-case 'sound7':
-case 'sound8':
-case 'sound9':
-case 'sound10':
-case 'sound11':
-case 'sound12':
-case 'sound13':
-case 'sound14':
-case 'sound15':
-case 'sound16':
-case 'sound17':
-case 'sound18':
-case 'sound19':
-case 'sound20':
-case 'sound21':
-case 'sound22':
-case 'sound23':
-case 'sound24':
-case 'sound25':
-case 'sound26':
-case 'sound27':
-case 'sound28':
-case 'sound29':
-case 'sound30':
-case 'sound31':
-case 'sound32':
-case 'sound33':
-case 'sound34':
-case 'sound35':
-case 'sound36':
-case 'sound37':
-case 'sound38':
-case 'sound39':
-case 'sound40':
-case 'sound41':
-case 'sound42':
-case 'sound43':
-case 'sound44':
-case 'sound45':
-case 'sound46':
-case 'sound47':
-case 'sound48':
-case 'sound49':
-case 'sound50':
-case 'sound51':
-case 'sound52':
-case 'sound53':
-case 'sound54':
-case 'sound55':
-case 'sound56':
-case 'sound57':
-case 'sound58':
-case 'sound59':
-case 'sound60':
-case 'sound61':
-case 'sound62':
-case 'sound63':
-case 'sound64':
-case 'sound65':
-case 'sound66':
-case 'sound67':
-case 'sound68':
-case 'sound69':
-case 'sound70':
-case 'sound70':
-reply(mess.wait)
-omkeh = await getBuffer(`https://hansxd.nasihosting.com/sound/${command}.mp3`)
-dha.sendMessage(from, omkeh, MessageType.audio, { quoted: mek, mimetype: 'audio/mp4', ptt: true })
-break
-
-
+		      
 //═════════════════════════ [ END ALL FITUR ] ═════════════════════════
 //═════════════════════════ [ WHATSAPP BOT BY YERIKO ] ═════════════════════════
 //═════════════════════════ [ COPAS? SILAHKAN 🗿👍 ] ═════════════════════════
