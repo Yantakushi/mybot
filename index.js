@@ -138,7 +138,7 @@ adminl = tes.Adminl
 freel = tes.freel
 //apikey
 apidapa = api.ApiDapa
-apizeks = api.ApiZeks
+apivinz = api.ApiZeks
 //Vcard
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
@@ -2504,7 +2504,7 @@ if (!isRegister) return sendButMessage (from, daftar1, daftar2, daftar3, { quote
 if (isLimit(sender, isPremium, isOwner, limitCount, _limit)) return
 if (!q) return reply('Nyri Apa?')
 reply(mess.wait)
-yutub = await fetchJson(`https://api.zeks.me/api/yts?apikey=${apizeks}&q=${q}`)
+yutub = await fetchJson(`https://api.zeks.me/api/yts?apikey=${apivinz}&q=${q}`)
 yutub1 = '*YOUTUBE SEARCH\n\n'
 for (let y of yutub.result) {
 yutub1 +=`*Judul* : ${y.video.title}\n`
